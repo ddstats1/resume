@@ -51,24 +51,10 @@ CV %>% print_contact_info()
 
 ## Skills {#skills}
 
-- Experienced (several years in industry) with R, SQL, Git/GitHub; working knowledge of R Shiny, Python, Stan, JavaScript
+- Experienced (several years in industry) with R, SQL, Git/GitHub; working knowledge of Python, R Shiny, Stan
 - Standard statistical/machine learning models (regressions, mixed models, tree-based methods, clustering) and techniques (cross-validation, model evaluation, boosting).
 - Ability to communicate complex/technical concepts to folks with various backgrounds.
-- I'm self-aware, easy to get along with, and I treat people well.
-
-
-## Project Links {#projects}
-
-- [Various R Shiny apps](https://ddstats.app)
-- Markov simulator [poster](https://ddstats.blog/content/dulaney-snook-osborne.pdf) and [R Shiny app]()
-- [Bayesian modelling](https://github.com/ddstats1/grad-school)
-- [Doran's Lab research](https://www.doranslab.gg/articles/location-based-champ-metrics.html)
-
-<br>
-
-<br>
-
-<br>
+- I'm easy to get along with, and I treat people well!
 
 ## Disclaimer {#disclaimer}
 
