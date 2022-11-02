@@ -60,8 +60,6 @@ CV %>% print_contact_info()
 
 Made with the R package [pagedown](https://github.com/rstudio/pagedown).
 
-The source code is available [on https://github.com/ddstats1/resume](https://github.com/ddstats1/resume).
-
 Last updated on `r Sys.Date()`.
 
 # Main
@@ -73,16 +71,16 @@ Last updated on `r Sys.Date()`.
 CV %<>% print_text_block("intro") 
 ```
 
-## Education {data-icon="graduation-cap" data-concise="true"}
-
-```{r}
-CV %<>% print_section('education')
-```
-
 ## Industry Experience {data-icon="suitcase"}
 
 ```{r}
 CV %<>% print_section('industry_positions')
+```
+
+## Education {data-icon="graduation-cap" data-concise="true"}
+
+```{r}
+CV %<>% print_section('education')
 ```
 
 ## Projects/Research {data-icon="laptop"}
